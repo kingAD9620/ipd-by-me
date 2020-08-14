@@ -1,0 +1,205 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.info{
+    width: 300px;
+}
+
+.shot{
+    height: 210px;
+    margin-bottom: 20px;
+}
+
+.shot1{
+    height: 210px;
+    width: 370px;
+    margin-bottom: 22px;
+
+}
+
+.d-block{
+    height: 450px;
+    margin-bottom: 0;
+}
+
+.im{
+    height: 158px;
+}
+
+.red{
+    height: 300px;
+}
+
+.carousel slide{
+    height: 100px;
+}
+
+.carousel-inner{
+    height: 520px;
+}
+
+.titre{
+    font-size: 24px;
+    font-weight: bold;
+    border-bottom: solid rgb(125, 125, 240);
+}
+
+.jumbotron{
+    margin-top: 40px;
+    border-bottom: solid rgb(125, 125, 240);
+}
+
+.btend0 .btend1 .btend2{
+    color: cyan;
+}
+
+.btn{
+    height: 40px;
+}
+
+.btend1{
+    margin-top: 1px;
+}
+
+.btend2{
+    margin-top: 1px;
+}
+
+.far{
+    height: 10px;
+}
+
+.fadecarou{
+    width: 100%;
+	display: block;
+}
+.row-ca{
+    width: 100%;
+	margin: auto;
+	display: flex;
+	flex-wrap: wrap;
+	box-sizing: border-box;
+}
+.col-md-4{
+    width: 25%;
+	padding: 10px 20px;
+	box-sizing: border-box;
+}
+
+.carousel-inner{
+    max-width: 100%;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.footer{
+    text-align: center;
+    color: white;
+    background: rgb(17, 16, 16);
+    padding: 20px;
+    margin-top: 180px;
+}
+
+.infobox{
+    margin-left: 60px;
+    margin-right: 60px;
+    padding: 30px;
+    margin-bottom: 20px;
+    box-shadow: 1px 1px 12px gray;
+}
+
+.htext{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 30px;
+    margin-top: 75px;
+}
+
+.signature{
+    margin-left: 900px;
+}
+
+.input-group-append{
+    margin: 15px;
+}
+
+#main{
+    background-color: gray;
+    border-top: 20px solid #fff;
+    border-bottom: 20px solid blue;
+}
+
+#main p{
+    border-bottom: red solid 1px;
+    margin: 20px;
+    padding: 10px;
+}
+
+#mainform{
+    margin-left: 50px;
+    margin-bottom: 30px;
+}
+
+.box{
+    margin-top: 40px;
+    background: darksalmon;
+    padding: 40px;
+    width: 300px;
+    text-align: justify;
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+label{
+    display: block;
+    width: 200px;
+}
+
+input{
+    border: 1px solid;
+    border-radius: 20px;
+    outline: none;
+    width: 230px;
+    height: 25px;
+    color: black;
+    text-align: start;
+    padding-left: 10px;
+    margin-bottom: 20px;
+    padding: 2px;
+}
+
+.btn1{
+    margin-top: -17px;
+    border: 1px solid;
+    border-radius: 20px;
+    display: block;
+    cursor: pointer;
+    text-align: center;
+    padding: 2px;
+}
+
+.btn1:hover{
+    background-color: blue;
+}
+
+#artxt{
+    margin: 0px; 
+    margin-top: -14px;
+    width: 563px; 
+    height: 239px;
+}
+
+h4{
+    margin-top: 5px;
+}
+
+.contact{
+    margin-left: 50px;
+}
+
+.logo{
+    height: 50px;
+}
